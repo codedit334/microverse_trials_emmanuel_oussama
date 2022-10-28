@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
+  #welcome-section {
+    height: 100vh;
+  }
+  #navbar {
+    float: right;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+  }
